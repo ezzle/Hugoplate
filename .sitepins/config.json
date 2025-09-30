@@ -1,0 +1,17 @@
+{
+  "media": {
+    "root": "exampleSite/assets",
+    "public": "exampleSite"
+  },
+  "content": {
+    "root": "exampleSite/content"
+  },
+  "code": {
+    "root": "exampleSite/assets"
+  },
+  "themeConfig": [
+    "exampleSite/config/_default"
+  ],
+  "arrangement": [],
+  "showCommitModal": true
+}
